@@ -1,0 +1,9 @@
+<ImageAsset
+    AssetName="Image_Roamer"
+    ImageFile="Roamer.png"
+    CellCountX="3"
+    CellCountY="4"
+    CellWidth="64"
+    CellHeight="64"
+    Optimal_Resolution="800 480"/>
+

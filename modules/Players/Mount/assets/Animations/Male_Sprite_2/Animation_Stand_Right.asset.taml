@@ -1,0 +1,6 @@
+<AnimationAsset
+    AssetName="Animation_Male_Sprite_2_Stand_Right"
+    Image="@asset=Module_Player_Mount:Image_Male_Sprite_2"
+    AnimationFrames="8"
+    AnimationCycle="true"
+	AnimationTime="1.0" />

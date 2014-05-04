@@ -1,0 +1,6 @@
+<AnimationAsset
+    AssetName="Animation_Female_Sprite_0_Stand_Up"
+    Image="@asset=Module_Player_Spook:Image_Female_Sprite_0"
+    AnimationFrames="12"
+    AnimationCycle="true"
+	AnimationTime="1.0" />

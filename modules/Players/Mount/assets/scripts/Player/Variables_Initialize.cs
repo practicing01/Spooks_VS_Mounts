@@ -1,0 +1,22 @@
+function Module_Player_Mount::Variables_Initialize(%this)
+{
+
+%this.GuiSpriteCtrl_Mount=0;
+
+%this.Vector_2D_Shield_Effect_Size=Vector_2D_Ass_Size_To_Camera_Scale(Module_Player_Spook.Ass_Image_Stealth);
+
+%this.Vector_2D_Recharge_Effect_Size=Vector_2D_Ass_Size_To_Camera_Scale(Module_Player_Spook.Ass_Image_Bolt);
+
+%this.Vector_2D_Radiation_Effect_Size=Vector_2D_Ass_Size_To_Camera_Scale(Module_Player_Spook.Ass_Image_Charge);
+
+%this.Vector_2D_Radiation_Size=Vector_2D_Ass_Size_To_Camera_Scale(%this.Ass_Image_Radiation);
+
+%this.Vector_2D_Mine_Effect_Size=Vector_2D_Ass_Size_To_Camera_Scale(Module_Player_Spook.Ass_Image_Melee);
+
+%this.Vector_2D_Mine_Size=Vector_2D_Ass_Size_To_Camera_Scale(%this.Ass_Image_Mine);
+
+%this.Vector_2D_Rifle_Effect_Size=Vector_2D_Ass_Size_To_Camera_Scale(Module_Player_Spook.Ass_Image_Effect_Shuriken);
+
+%this.Vector_2D_Projectile_Size=Vector_2D_Ass_Size_To_Camera_Scale(%this.Ass_Image_Projectile);
+
+}

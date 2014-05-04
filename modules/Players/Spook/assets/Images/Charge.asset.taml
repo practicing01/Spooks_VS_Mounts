@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName="Image_Charge"
+    ImageFile="Charge.png"
+	CellCountX="10"
+    CellCountY="2"
+    CellWidth="178"
+    CellHeight="156"
+	Optimal_Resolution="800 480"/>

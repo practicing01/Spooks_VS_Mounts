@@ -1,0 +1,10 @@
+exec("./Input_Initialize.cs");
+exec("./World_Limits_Initialize.cs");
+exec("./Floor_Initialize.cs");
+exec("./Character_Select_Initialize.cs");
+exec("./Obstacles_Grid_Initialize.cs");
+exec("./Visibility_Ray_Initialize.cs");
+exec("./Score_Initialize.cs");
+exec("./Computer_Objective_Initialize.cs");
+exec("./Roamer_Initialize.cs");
+exec("./AI_Process.cs");

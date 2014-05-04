@@ -1,0 +1,7 @@
+<AnimationAsset
+    AssetName="Animation_Roamer_Up"
+    Image="@asset=Module_Gameplay:Image_Roamer"
+    AnimationFrames="9 10 11"
+    AnimationCycle="true"
+	AnimationTime="0.25" />
+

@@ -1,0 +1,9 @@
+<ImageAsset
+    AssetName="Image_Female_Sprite_0"
+    ImageFile="Female_Sprite_0.png"
+    CellCountX="4"
+    CellCountY="4"
+    CellWidth="32"
+    CellHeight="48"
+    Optimal_Resolution="800 480"/>
+

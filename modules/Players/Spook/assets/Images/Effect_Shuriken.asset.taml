@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName="Image_Effect_Shuriken"
+    ImageFile="Effect_Shuriken.png"
+	CellCountX="13"
+    CellCountY="1"
+    CellWidth="134"
+    CellHeight="170"
+	Optimal_Resolution="800 480"/>

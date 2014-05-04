@@ -1,0 +1,8 @@
+<ImageAsset
+    AssetName="Image_Bolt"
+    ImageFile="Bolt.png"
+	CellCountX="20"
+    CellCountY="1"
+    CellWidth="56"
+    CellHeight="64"
+	Optimal_Resolution="800 480"/>

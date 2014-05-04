@@ -1,0 +1,6 @@
+<AnimationAsset
+    AssetName="Animation_Male_Sprite_2_Run_Down"
+    Image="@asset=Module_Player_Mount:Image_Male_Sprite_2"
+    AnimationFrames="0 1 2 3"
+    AnimationCycle="true"
+	AnimationTime="0.5" />
